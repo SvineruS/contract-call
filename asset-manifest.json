@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/contract-call/static/css/main.5129b42b.css",
-    "main.js": "/contract-call/static/js/main.1593eee0.js",
+    "main.js": "/contract-call/static/js/main.296bf10b.js",
     "index.html": "/contract-call/index.html",
     "main.5129b42b.css.map": "/contract-call/static/css/main.5129b42b.css.map",
-    "main.1593eee0.js.map": "/contract-call/static/js/main.1593eee0.js.map"
+    "main.296bf10b.js.map": "/contract-call/static/js/main.296bf10b.js.map"
   },
   "entrypoints": [
     "static/css/main.5129b42b.css",
-    "static/js/main.1593eee0.js"
+    "static/js/main.296bf10b.js"
   ]
 }
