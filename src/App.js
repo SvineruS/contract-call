@@ -12,6 +12,7 @@ function App() {
 
   async function send() {
     const provider = new ethers.providers.Web3Provider(window.ethereum)
+    await provider.send("eth_requestAccounts", []);
     const signer = provider.getSigner()
     console.log(await signer.getAddress(), contractAddress, value, calldata, options)
 
